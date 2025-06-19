@@ -1,0 +1,9 @@
+station_id,station_name,longitude,latitude,daily_activity,bike_count
+1,Kellogg-Hubbard Library in Montpelier,-72.569537,44.256759,200,10
+2,Corner of Main and State in Montpelier,-72.575386,44.260059,300,10
+3,Prohibition Pig in Waterbury,-72.75,44.34,100,10
+4,Montpelier High School,-72.586039,44.261085,200,10
+5,The Opera House in Barre,-72.50149,44.19680,100,10
+6,Barre AUD,-72.502711,44.203435,100,10
+7,Spaulding High School in Barre,-72.49298,44.189367,200,10
+8,Ben and Jerry's in Waterbury,-72.736156,44.354902,200,10

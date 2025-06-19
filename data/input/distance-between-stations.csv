@@ -1,0 +1,57 @@
+from,to,distance_in_km
+"Kellogg-Hubbard Library in Montpelier","Corner of Main and State in Montpelier",1.61
+"Corner of Main and State in Montpelier","Kellogg-Hubbard Library in Montpelier",1.61
+"Kellogg-Hubbard Library in Montpelier","Prohibition Pig in Waterbury",21.1
+"Prohibition Pig in Waterbury","Kellogg-Hubbard Library in Montpelier",21.1
+"Kellogg-Hubbard Library in Montpelier","Montpelier High School",1.3
+"Montpelier High School","Kellogg-Hubbard Library in Montpelier",1.3
+"Kellogg-Hubbard Library in Montpelier","The Opera House in Barre",11.7
+"The Opera House in Barre","Kellogg-Hubbard Library in Montpelier",11.7
+"Kellogg-Hubbard Library in Montpelier","Barre AUD",1.61
+"Barre AUD","Kellogg-Hubbard Library in Montpelier",1.61
+"Kellogg-Hubbard Library in Montpelier","Spaulding High School in Barre",12.8
+"Spaulding High School in Barre","Kellogg-Hubbard Library in Montpelier",12.8
+"Kellogg-Hubbard Library in Montpelier","Ben and Jerry's in Waterbury",21.2
+"Ben and Jerry's in Waterbury","Kellogg-Hubbard Library in Montpelier",21.2
+"Corner of Main and State in Montpelier","Prohibition Pig in Waterbury",33.8
+"Prohibition Pig in Waterbury","Corner of Main and State in Montpelier",33.8
+"Corner of Main and State in Montpelier","Montpelier High School",1.5
+"Montpelier High School","Corner of Main and State in Montpelier",1.5
+"Corner of Main and State in Montpelier","The Opera House in Barre",11.5
+"The Opera House in Barre","Corner of Main and State in Montpelier",11.5
+"Corner of Main and State in Montpelier","Barre AUD",522.23
+"Barre AUD","Corner of Main and State in Montpelier",522.23
+"Corner of Main and State in Montpelier","Spaulding High School in Barre",12.7
+"Spaulding High School in Barre","Corner of Main and State in Montpelier",12.7
+"Corner of Main and State in Montpelier","Ben and Jerry's in Waterbury",21.0
+"Ben and Jerry's in Waterbury","Corner of Main and State in Montpelier",21.0
+"Prohibition Pig in Waterbury","Montpelier High School",20.6
+"Montpelier High School","Prohibition Pig in Waterbury",20.6
+"Prohibition Pig in Waterbury","The Opera House in Barre",22.8
+"The Opera House in Barre","Prohibition Pig in Waterbury",22.8
+"Prohibition Pig in Waterbury","Barre AUD",19.5
+"Barre AUD","Prohibition Pig in Waterbury",19.5
+"Prohibition Pig in Waterbury","Spaulding High School in Barre",20.7
+"Spaulding High School in Barre","Prohibition Pig in Waterbury",20.7
+"Prohibition Pig in Waterbury","Ben and Jerry's in Waterbury",2.5
+"Ben and Jerry's in Waterbury","Prohibition Pig in Waterbury",2.5
+"Montpelier High School","The Opera House in Barre",15.0
+"The Opera House in Barre","Montpelier High School",15.0
+"Montpelier High School","Barre AUD",14.0
+"Barre AUD","Montpelier High School",14.0
+"Montpelier High School","Spaulding High School in Barre",16.1
+"Spaulding High School in Barre","Montpelier High School",16.1
+"Montpelier High School","Ben and Jerry's in Waterbury",20.2
+"Ben and Jerry's in Waterbury","Montpelier High School",20.2
+"The Opera House in Barre","Barre AUD",1.2
+"Barre AUD","The Opera House in Barre",1.2
+"The Opera House in Barre","Spaulding High School in Barre",2.5
+"Spaulding High School in Barre","The Opera House in Barre",2.5
+"The Opera House in Barre","Ben and Jerry's in Waterbury",22.5
+"Ben and Jerry's in Waterbury","The Opera House in Barre",22.5
+"Barre AUD","Spaulding High School in Barre",3.0
+"Spaulding High School in Barre","Barre AUD",3.0
+"Barre AUD","Ben and Jerry's in Waterbury",22.2
+"Ben and Jerry's in Waterbury","Barre AUD",22.2
+"Spaulding High School in Barre","Ben and Jerry's in Waterbury",23.3
+"Ben and Jerry's in Waterbury","Spaulding High School in Barre",23.3
